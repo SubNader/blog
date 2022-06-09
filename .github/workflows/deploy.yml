@@ -8,6 +8,6 @@ jobs:
         uses: actions/checkout@v3
 
       - name: Deploy
-        uses: subnader/blog-action@v1.0.4
+        uses: subnader/blog-action@v1.0.5
         with:
           branch: blog 
