@@ -8,6 +8,9 @@
     "github": "subnader",
     "twitter": "subnader"
   },
+  "newsletter": {
+    "showTwitterBanner": false
+  },
   "seo": {
     "title": "Nader Elsharkawy",
     "description": "(Data) Engineering among other things.",
