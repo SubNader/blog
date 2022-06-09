@@ -8,6 +8,11 @@
     "github": "subnader",
     "twitter": "subnader"
   },
+  "newsletter": {
+    "showTwitterBanner": true,
+    "currentCount": "2,000",
+    "revueUsername": "roadmapsh"
+  },
   "seo": {
     "title": "Nader Elsharkawy",
     "description": "(Data) Engineering among other things.",
