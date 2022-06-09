@@ -1,4 +1,4 @@
-My name is **Nader**, a data (platform) engineer.
+My name is **Nader Elsharkawy**, a data (platform) engineer.
 
 I am currently a Staff Data Engineer at [Delivery Hero](https://deliveryhero.com) and have previously worked at [EyeEm](https://eyeem.com).
 
