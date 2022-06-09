@@ -9,7 +9,7 @@
     "twitter": "subnader"
   },
   "newsletter": {
-    "showTwitterBanner": true,
+    "showTwitterBanner": false,
     "currentCount": "2,000",
     "revueUsername": "roadmapsh"
   },
