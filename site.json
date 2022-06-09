@@ -1,0 +1,24 @@
+{
+  "title": "Nader Elsharkawy",
+  "subtitle": "Staff Data Engineer",
+  "owner": {
+    "name": "Nader Elsharkawy"
+  },
+  "social": {
+    "github": "subnader",
+    "twitter": "subnader"
+  },
+  "seo": {
+    "title": "Nader Elsharkawy",
+    "description": "(Data) Engineering among other things.",
+    "author": "Nader Elsharkawy",
+    "keywords": [
+      "blog",
+      "developer blog",
+      "engineering blog",
+      "data engineering",
+      "data engineer blog"
+    ]
+  },
+  "cname": "nader.blog"
+}
