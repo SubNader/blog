@@ -1,8 +1,6 @@
-<p class="about__head">
-    Staff Data Engineer at <a href="https://deliveryhero.com" target="_blank">Delivery Hero</a>.
-</p>
+Hello everyone!
 
-I'm Nader, a data engineer, a former Data Engineer at EyeEm, a former Big Data intern at IBM and a CCE graduate from Alexandria University, where I also did some undergrad research on scalable analytics.
+My name is Nader, a data engineer, a former Data Engineer at EyeEm, a former Big Data intern at IBM and a CCE graduate from Alexandria University, where I also did some undergrad research on scalable analytics.
 
 I grew up near the very (read extremely) warm shores of Jeddah before moving to Alexandria for university.
 
