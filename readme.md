@@ -1,2 +1,3 @@
-# [nader.blog](https://nader.blog)
-My personal blog.
+# Blog
+Me, myself and my rambles.
+The blog can be found [here](https://nader.blog).
