@@ -10,7 +10,7 @@ jobs:
       - name: Checkout blog builder
         uses: actions/checkout@v3
         with:
-          repository: subnader/blog-builder
+          repository: subnader/blog-builder@v1.0.20
           token: ${{ secrets.GH_PAT }}
           path: ./.github/actions
       
