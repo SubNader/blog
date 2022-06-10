@@ -7,7 +7,7 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v3
       
-      - name: Checkout private tools
+      - name: Checkout blog builder
         uses: actions/checkout@v3
         with:
           repository: subnader/blog-builder
