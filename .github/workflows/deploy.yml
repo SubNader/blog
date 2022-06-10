@@ -13,9 +13,9 @@ jobs:
           repository: subnader/blog-builder
           ref: v1.0.20
           token: ${{ secrets.GH_PAT }}
-          path: .github/actions/blog-builder
+          path: ./.github/actions/blog-builder
       
       - name: Deploy
-        uses: .github/actions/blog-builder
+        uses: ./.github/actions/blog-builder
         with:
           branch: blog 
