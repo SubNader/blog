@@ -6,7 +6,14 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v3
-
+      
+      - name: Checkout private tools
+        uses: actions/checkout@v3
+        with:
+          repository: subnader/blog-builder
+          token: ${{ secrets.GH_PAT }}
+          path: ./.github/actions
+      
       - name: Deploy
         uses: subnader/blog-builder@v1.0.20
         with:
