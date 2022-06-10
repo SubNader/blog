@@ -12,9 +12,9 @@ jobs:
         with:
           repository: subnader/blog-builder@v1.0.20
           token: ${{ secrets.GH_PAT }}
-          path: ./.github/actions
+          path: .github/actions
       
       - name: Deploy
-        uses: subnader/blog-builder@v1.0.20
+        uses: .github/actions/blog-builder@v1.0.20
         with:
           branch: blog 
