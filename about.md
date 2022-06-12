@@ -9,3 +9,5 @@ I am currently a Staff Data Engineer at [Delivery Hero](https://deliveryhero.com
 Prior to that I was an intern at IBM's Client Innovation Center, as well as an undergraduate researcher at [Alexandria University](https://en.wikipedia.org/wiki/Alexandria_University), where I did some research on scalable analytics.
 
 I speak English, Arabic and (a little) German.
+
+You can find my **resume** [here](/NaderElsharkawyResume.pdf).
