@@ -11,7 +11,7 @@ jobs:
         uses: actions/checkout@v3
         with:
           repository: subnader/blog-builder
-          ref: v1.1.44
+          ref: v1.1.45
           token: ${{ secrets.GH_PAT }}
           path: ./.github/actions/blog-builder
       
