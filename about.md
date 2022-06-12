@@ -10,4 +10,4 @@ Prior to that I was an intern at IBM's Client Innovation Center, as well as an u
 
 I speak English, Arabic and (a little) German.
 
-You can find my **resume** [here](/NaderElsharkawyResume.pdf).
+You can find my resume [here](/NaderElsharkawyResume.pdf).
