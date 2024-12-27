@@ -8,6 +8,6 @@ I am currently an Engineering Manager at [Delivery Hero](https://deliveryhero.co
 
 Prior to that I was an intern at IBM's Client Innovation Center, as well as an undergraduate researcher at [Alexandria University](https://en.wikipedia.org/wiki/Alexandria_University), where I did some research on scalable analytics.
 
-I speak English, Arabic and (a little) German.
+I speak English, Arabic and German.
 
 You can find my resume [here](/NaderElsharkawyResume.pdf) and my PGP public key [here](/NaderElsharkawy.pgp).
