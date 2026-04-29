@@ -24,5 +24,6 @@
       "data engineer blog"
     ]
   },
-  "cname": "nader.blog"
+  "cname": "nader.blog",
+  "builderVersion": "v1.5.6"
 }
